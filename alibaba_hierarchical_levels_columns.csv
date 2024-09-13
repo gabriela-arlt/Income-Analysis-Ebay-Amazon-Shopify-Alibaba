@@ -1,0 +1,841 @@
+Year,Level 0,Level 1,Level 2,Level 3,Level 4,Current Metric,Value
+2024,Total Revenue,,,,,Cost of Revenue,607915000000.0
+2024,Total Revenue,,,,,Gross Profit,333253000000.0
+2024,Total Revenue,Gross Profit,,,,Operating Income,123871000000.0
+2024,Total Revenue,Gross Profit,Operating Income,,,EBIT,123871000000.0
+2024,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,172103000000.0
+2024,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,80009000000.0
+2024,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,101596000000.0
+2024,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,22529000000.0
+2024,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,209382000000.0
+2024,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2024,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,48232000000.0
+2024,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",41985000000.0
+2024,Total Revenue,Gross Profit,,,,Research and Development,52256000000.0
+2024,Total Revenue,,,,,Non-Interest Income,
+2024,Total Revenue,,,,,Other Non-Operating Income,
+2024,Total Revenue,,,,,Investment Income Net,
+2024,Total Revenue,,,,,Net Interest Income,-17911000000.0
+2024,Total Revenue,Net Interest Income,,,,Interest Income,
+2024,Total Revenue,Net Interest Income,,,,Interest Expense,7947000000.0
+2024,Gross Profit,,,,,Operating Income,123871000000.0
+2024,Gross Profit,Operating Income,,,,EBIT,123871000000.0
+2024,Gross Profit,Operating Income,EBIT,,,EBITDA,172103000000.0
+2024,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,80009000000.0
+2024,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,71332000000.0
+2024,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2024,Gross Profit,Operating Income,EBIT,,,Income Before Tax,101596000000.0
+2024,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,22529000000.0
+2024,Gross Profit,Operating Income,,,,Operating Expenses,209382000000.0
+2024,Gross Profit,Operating Income,,,,Depreciation,
+2024,Gross Profit,Operating Income,,,,Depreciation and Amortization,48232000000.0
+2024,Gross Profit,,,,,"Selling, General and Administrative",41985000000.0
+2024,Gross Profit,,,,,Research and Development,52256000000.0
+2024,Operating Income,,,,,EBIT,123871000000.0
+2024,Operating Income,EBIT,,,,EBITDA,172103000000.0
+2024,Operating Income,EBIT,EBITDA,,,Net Income,80009000000.0
+2024,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,71332000000.0
+2024,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2024,Operating Income,EBIT,,,,Income Before Tax,101596000000.0
+2024,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,22529000000.0
+2024,Operating Income,,,,,Operating Expenses,209382000000.0
+2024,Operating Income,,,,,Depreciation,
+2024,Operating Income,,,,,Depreciation and Amortization,48232000000.0
+2024,EBIT,,,,,EBITDA,172103000000.0
+2024,EBIT,EBITDA,,,,Net Income,80009000000.0
+2024,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,71332000000.0
+2024,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2024,EBIT,,,,,Income Before Tax,101596000000.0
+2024,EBIT,Income Before Tax,,,,Income Tax Expense,22529000000.0
+2024,Income Before Tax,,,,,Income Tax Expense,22529000000.0
+2024,EBITDA,,,,,Net Income,80009000000.0
+2024,EBITDA,Net Income,,,,Net Income from Continuing Operations,71332000000.0
+2024,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2024,Net Income,,,,,Net Income from Continuing Operations,71332000000.0
+2024,Net Income,,,,,Comprehensive Income Net of Tax,
+2024,Net Interest Income,,,,,Interest Income,
+2024,Net Interest Income,,,,,Interest Expense,7947000000.0
+2023,Total Revenue,,,,,Cost of Revenue,549695000000.0
+2023,Total Revenue,,,,,Gross Profit,318992000000.0
+2023,Total Revenue,Gross Profit,,,,Operating Income,100351000000.0
+2023,Total Revenue,Gross Profit,Operating Income,,,EBIT,84234000000.0
+2023,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,122392000000.0
+2023,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,72783000000.0
+2023,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,89185000000.0
+2023,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,15549000000.0
+2023,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,215927000000.0
+2023,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2023,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,38158000000.0
+2023,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",42183000000.0
+2023,Total Revenue,Gross Profit,,,,Research and Development,56744000000.0
+2023,Total Revenue,,,,,Non-Interest Income,
+2023,Total Revenue,,,,,Other Non-Operating Income,
+2023,Total Revenue,,,,,Investment Income Net,
+2023,Total Revenue,,,,,Net Interest Income,-16989000000.0
+2023,Total Revenue,Net Interest Income,,,,Interest Income,5918000000.0
+2023,Total Revenue,Net Interest Income,,,,Interest Expense,16989000000.0
+2023,Gross Profit,,,,,Operating Income,100351000000.0
+2023,Gross Profit,Operating Income,,,,EBIT,84234000000.0
+2023,Gross Profit,Operating Income,EBIT,,,EBITDA,122392000000.0
+2023,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,72783000000.0
+2023,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,65573000000.0
+2023,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2023,Gross Profit,Operating Income,EBIT,,,Income Before Tax,89185000000.0
+2023,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,15549000000.0
+2023,Gross Profit,Operating Income,,,,Operating Expenses,215927000000.0
+2023,Gross Profit,Operating Income,,,,Depreciation,
+2023,Gross Profit,Operating Income,,,,Depreciation and Amortization,38158000000.0
+2023,Gross Profit,,,,,"Selling, General and Administrative",42183000000.0
+2023,Gross Profit,,,,,Research and Development,56744000000.0
+2023,Operating Income,,,,,EBIT,84234000000.0
+2023,Operating Income,EBIT,,,,EBITDA,122392000000.0
+2023,Operating Income,EBIT,EBITDA,,,Net Income,72783000000.0
+2023,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,65573000000.0
+2023,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2023,Operating Income,EBIT,,,,Income Before Tax,89185000000.0
+2023,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,15549000000.0
+2023,Operating Income,,,,,Operating Expenses,215927000000.0
+2023,Operating Income,,,,,Depreciation,
+2023,Operating Income,,,,,Depreciation and Amortization,38158000000.0
+2023,EBIT,,,,,EBITDA,122392000000.0
+2023,EBIT,EBITDA,,,,Net Income,72783000000.0
+2023,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,65573000000.0
+2023,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2023,EBIT,,,,,Income Before Tax,89185000000.0
+2023,EBIT,Income Before Tax,,,,Income Tax Expense,15549000000.0
+2023,Income Before Tax,,,,,Income Tax Expense,15549000000.0
+2023,EBITDA,,,,,Net Income,72783000000.0
+2023,EBITDA,Net Income,,,,Net Income from Continuing Operations,65573000000.0
+2023,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2023,Net Income,,,,,Net Income from Continuing Operations,65573000000.0
+2023,Net Income,,,,,Comprehensive Income Net of Tax,
+2023,Net Interest Income,,,,,Interest Income,5918000000.0
+2023,Net Interest Income,,,,,Interest Expense,16989000000.0
+2022,Total Revenue,,,,,Cost of Revenue,539450000000.0
+2022,Total Revenue,,,,,Gross Profit,313612000000.0
+2022,Total Revenue,Gross Profit,,,,Operating Income,105302000000.0
+2022,Total Revenue,Gross Profit,Operating Income,,,EBIT,71222000000.0
+2022,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,116949000000.0
+2022,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,62249000000.0
+2022,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,59550000000.0
+2022,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,26815000000.0
+2022,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,218833000000.0
+2022,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2022,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,45727000000.0
+2022,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",31922000000.0
+2022,Total Revenue,Gross Profit,,,,Research and Development,55465000000.0
+2022,Total Revenue,,,,,Non-Interest Income,
+2022,Total Revenue,,,,,Other Non-Operating Income,
+2022,Total Revenue,,,,,Investment Income Net,
+2022,Total Revenue,,,,,Net Interest Income,-20611000000.0
+2022,Total Revenue,Net Interest Income,,,,Interest Income,30496000000.0
+2022,Total Revenue,Net Interest Income,,,,Interest Expense,20611000000.0
+2022,Gross Profit,,,,,Operating Income,105302000000.0
+2022,Gross Profit,Operating Income,,,,EBIT,71222000000.0
+2022,Gross Profit,Operating Income,EBIT,,,EBITDA,116949000000.0
+2022,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,62249000000.0
+2022,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,47079000000.0
+2022,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2022,Gross Profit,Operating Income,EBIT,,,Income Before Tax,59550000000.0
+2022,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,26815000000.0
+2022,Gross Profit,Operating Income,,,,Operating Expenses,218833000000.0
+2022,Gross Profit,Operating Income,,,,Depreciation,
+2022,Gross Profit,Operating Income,,,,Depreciation and Amortization,45727000000.0
+2022,Gross Profit,,,,,"Selling, General and Administrative",31922000000.0
+2022,Gross Profit,,,,,Research and Development,55465000000.0
+2022,Operating Income,,,,,EBIT,71222000000.0
+2022,Operating Income,EBIT,,,,EBITDA,116949000000.0
+2022,Operating Income,EBIT,EBITDA,,,Net Income,62249000000.0
+2022,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,47079000000.0
+2022,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2022,Operating Income,EBIT,,,,Income Before Tax,59550000000.0
+2022,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,26815000000.0
+2022,Operating Income,,,,,Operating Expenses,218833000000.0
+2022,Operating Income,,,,,Depreciation,
+2022,Operating Income,,,,,Depreciation and Amortization,45727000000.0
+2022,EBIT,,,,,EBITDA,116949000000.0
+2022,EBIT,EBITDA,,,,Net Income,62249000000.0
+2022,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,47079000000.0
+2022,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2022,EBIT,,,,,Income Before Tax,59550000000.0
+2022,EBIT,Income Before Tax,,,,Income Tax Expense,26815000000.0
+2022,Income Before Tax,,,,,Income Tax Expense,26815000000.0
+2022,EBITDA,,,,,Net Income,62249000000.0
+2022,EBITDA,Net Income,,,,Net Income from Continuing Operations,47079000000.0
+2022,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2022,Net Income,,,,,Net Income from Continuing Operations,47079000000.0
+2022,Net Income,,,,,Comprehensive Income Net of Tax,
+2022,Net Interest Income,,,,,Interest Income,30496000000.0
+2022,Net Interest Income,,,,,Interest Expense,20611000000.0
+2021,Total Revenue,,,,,Cost of Revenue,421205000000.0
+2021,Total Revenue,,,,,Gross Profit,296084000000.0
+2021,Total Revenue,Gross Profit,,,,Operating Income,170054000000.0
+2021,Total Revenue,Gross Profit,Operating Income,,,EBIT,135411000000.0
+2021,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,182481000000.0
+2021,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,150578000000.0
+2021,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,165578000000.0
+2021,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,29278000000.0
+2021,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,206406000000.0
+2021,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2021,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,47070000000.0
+2021,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",55224000000.0
+2021,Total Revenue,Gross Profit,,,,Research and Development,57236000000.0
+2021,Total Revenue,,,,,Non-Interest Income,
+2021,Total Revenue,,,,,Other Non-Operating Income,
+2021,Total Revenue,,,,,Investment Income Net,
+2021,Total Revenue,,,,,Net Interest Income,68318000000.0
+2021,Total Revenue,Net Interest Income,,,,Interest Income,72794000000.0
+2021,Total Revenue,Net Interest Income,,,,Interest Expense,4476000000.0
+2021,Gross Profit,,,,,Operating Income,170054000000.0
+2021,Gross Profit,Operating Income,,,,EBIT,135411000000.0
+2021,Gross Profit,Operating Income,EBIT,,,EBITDA,182481000000.0
+2021,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,150578000000.0
+2021,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,143284000000.0
+2021,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2021,Gross Profit,Operating Income,EBIT,,,Income Before Tax,165578000000.0
+2021,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,29278000000.0
+2021,Gross Profit,Operating Income,,,,Operating Expenses,206406000000.0
+2021,Gross Profit,Operating Income,,,,Depreciation,
+2021,Gross Profit,Operating Income,,,,Depreciation and Amortization,47070000000.0
+2021,Gross Profit,,,,,"Selling, General and Administrative",55224000000.0
+2021,Gross Profit,,,,,Research and Development,57236000000.0
+2021,Operating Income,,,,,EBIT,135411000000.0
+2021,Operating Income,EBIT,,,,EBITDA,182481000000.0
+2021,Operating Income,EBIT,EBITDA,,,Net Income,150578000000.0
+2021,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,143284000000.0
+2021,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2021,Operating Income,EBIT,,,,Income Before Tax,165578000000.0
+2021,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,29278000000.0
+2021,Operating Income,,,,,Operating Expenses,206406000000.0
+2021,Operating Income,,,,,Depreciation,
+2021,Operating Income,,,,,Depreciation and Amortization,47070000000.0
+2021,EBIT,,,,,EBITDA,182481000000.0
+2021,EBIT,EBITDA,,,,Net Income,150578000000.0
+2021,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,143284000000.0
+2021,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2021,EBIT,,,,,Income Before Tax,165578000000.0
+2021,EBIT,Income Before Tax,,,,Income Tax Expense,29278000000.0
+2021,Income Before Tax,,,,,Income Tax Expense,29278000000.0
+2021,EBITDA,,,,,Net Income,150578000000.0
+2021,EBITDA,Net Income,,,,Net Income from Continuing Operations,143284000000.0
+2021,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2021,Net Income,,,,,Net Income from Continuing Operations,143284000000.0
+2021,Net Income,,,,,Comprehensive Income Net of Tax,
+2021,Net Interest Income,,,,,Interest Income,72794000000.0
+2021,Net Interest Income,,,,,Interest Expense,4476000000.0
+2020,Total Revenue,,,,,Cost of Revenue,282367000000.0
+2020,Total Revenue,,,,,Gross Profit,227344000000.0
+2020,Total Revenue,Gross Profit,,,,Operating Income,172401000000.0
+2020,Total Revenue,Gross Profit,Operating Income,,,EBIT,172401000000.0
+2020,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,185789000000.0
+2020,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,149433000000.0
+2020,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,166645000000.0
+2020,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,20562000000.0
+2020,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,135338000000.0
+2020,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2020,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,13388000000.0
+2020,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",28197000000.0
+2020,Total Revenue,Gross Profit,,,,Research and Development,43080000000.0
+2020,Total Revenue,,,,,Non-Interest Income,
+2020,Total Revenue,,,,,Other Non-Operating Income,
+2020,Total Revenue,,,,,Investment Income Net,
+2020,Total Revenue,,,,,Net Interest Income,67776000000.0
+2020,Total Revenue,Net Interest Income,,,,Interest Income,72956000000.0
+2020,Total Revenue,Net Interest Income,,,,Interest Expense,5180000000.0
+2020,Gross Profit,,,,,Operating Income,172401000000.0
+2020,Gross Profit,Operating Income,,,,EBIT,172401000000.0
+2020,Gross Profit,Operating Income,EBIT,,,EBITDA,185789000000.0
+2020,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,149433000000.0
+2020,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,140350000000.0
+2020,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2020,Gross Profit,Operating Income,EBIT,,,Income Before Tax,166645000000.0
+2020,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,20562000000.0
+2020,Gross Profit,Operating Income,,,,Operating Expenses,135338000000.0
+2020,Gross Profit,Operating Income,,,,Depreciation,
+2020,Gross Profit,Operating Income,,,,Depreciation and Amortization,13388000000.0
+2020,Gross Profit,,,,,"Selling, General and Administrative",28197000000.0
+2020,Gross Profit,,,,,Research and Development,43080000000.0
+2020,Operating Income,,,,,EBIT,172401000000.0
+2020,Operating Income,EBIT,,,,EBITDA,185789000000.0
+2020,Operating Income,EBIT,EBITDA,,,Net Income,149433000000.0
+2020,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,140350000000.0
+2020,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2020,Operating Income,EBIT,,,,Income Before Tax,166645000000.0
+2020,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,20562000000.0
+2020,Operating Income,,,,,Operating Expenses,135338000000.0
+2020,Operating Income,,,,,Depreciation,
+2020,Operating Income,,,,,Depreciation and Amortization,13388000000.0
+2020,EBIT,,,,,EBITDA,185789000000.0
+2020,EBIT,EBITDA,,,,Net Income,149433000000.0
+2020,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,140350000000.0
+2020,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2020,EBIT,,,,,Income Before Tax,166645000000.0
+2020,EBIT,Income Before Tax,,,,Income Tax Expense,20562000000.0
+2020,Income Before Tax,,,,,Income Tax Expense,20562000000.0
+2020,EBITDA,,,,,Net Income,149433000000.0
+2020,EBITDA,Net Income,,,,Net Income from Continuing Operations,140350000000.0
+2020,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2020,Net Income,,,,,Net Income from Continuing Operations,140350000000.0
+2020,Net Income,,,,,Comprehensive Income Net of Tax,
+2020,Net Interest Income,,,,,Interest Income,72956000000.0
+2020,Net Interest Income,,,,,Interest Expense,5180000000.0
+2019,Total Revenue,,,,,Cost of Revenue,206929000000.0
+2019,Total Revenue,,,,,Gross Profit,169915000000.0
+2019,Total Revenue,Gross Profit,,,,Operating Income,57084000000.0
+2019,Total Revenue,Gross Profit,Operating Income,,,EBIT,101411000000.0
+2019,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,112138000000.0
+2019,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,87886000000.0
+2019,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,96221000000.0
+2019,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,16553000000.0
+2019,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,112831000000.0
+2019,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2019,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,10727000000.0
+2019,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",24889000000.0
+2019,Total Revenue,Gross Profit,,,,Research and Development,37435000000.0
+2019,Total Revenue,,,,,Non-Interest Income,
+2019,Total Revenue,,,,,Other Non-Operating Income,0.0
+2019,Total Revenue,,,,,Investment Income Net,
+2019,Total Revenue,,,,,Net Interest Income,38916000000.0
+2019,Total Revenue,Net Interest Income,,,,Interest Income,44106000000.0
+2019,Total Revenue,Net Interest Income,,,,Interest Expense,5190000000.0
+2019,Gross Profit,,,,,Operating Income,57084000000.0
+2019,Gross Profit,Operating Income,,,,EBIT,101411000000.0
+2019,Gross Profit,Operating Income,EBIT,,,EBITDA,112138000000.0
+2019,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,87886000000.0
+2019,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,80234000000.0
+2019,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2019,Gross Profit,Operating Income,EBIT,,,Income Before Tax,96221000000.0
+2019,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,16553000000.0
+2019,Gross Profit,Operating Income,,,,Operating Expenses,112831000000.0
+2019,Gross Profit,Operating Income,,,,Depreciation,
+2019,Gross Profit,Operating Income,,,,Depreciation and Amortization,10727000000.0
+2019,Gross Profit,,,,,"Selling, General and Administrative",24889000000.0
+2019,Gross Profit,,,,,Research and Development,37435000000.0
+2019,Operating Income,,,,,EBIT,101411000000.0
+2019,Operating Income,EBIT,,,,EBITDA,112138000000.0
+2019,Operating Income,EBIT,EBITDA,,,Net Income,87886000000.0
+2019,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,80234000000.0
+2019,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2019,Operating Income,EBIT,,,,Income Before Tax,96221000000.0
+2019,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,16553000000.0
+2019,Operating Income,,,,,Operating Expenses,112831000000.0
+2019,Operating Income,,,,,Depreciation,
+2019,Operating Income,,,,,Depreciation and Amortization,10727000000.0
+2019,EBIT,,,,,EBITDA,112138000000.0
+2019,EBIT,EBITDA,,,,Net Income,87886000000.0
+2019,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,80234000000.0
+2019,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2019,EBIT,,,,,Income Before Tax,96221000000.0
+2019,EBIT,Income Before Tax,,,,Income Tax Expense,16553000000.0
+2019,Income Before Tax,,,,,Income Tax Expense,16553000000.0
+2019,EBITDA,,,,,Net Income,87886000000.0
+2019,EBITDA,Net Income,,,,Net Income from Continuing Operations,80234000000.0
+2019,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2019,Net Income,,,,,Net Income from Continuing Operations,80234000000.0
+2019,Net Income,,,,,Comprehensive Income Net of Tax,
+2019,Net Interest Income,,,,,Interest Income,44106000000.0
+2019,Net Interest Income,,,,,Interest Expense,5190000000.0
+2018,Total Revenue,,,,,Cost of Revenue,107044000000.0
+2018,Total Revenue,,,,,Gross Profit,143222000000.0
+2018,Total Revenue,Gross Profit,,,,Operating Income,69314000000.0
+2018,Total Revenue,Gross Profit,Operating Income,,,EBIT,104463000000.0
+2018,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,111583000000.0
+2018,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,64093000000.0
+2018,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,100403000000.0
+2018,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,18199000000.0
+2018,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,73414000000.0
+2018,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2018,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,7120000000.0
+2018,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",16241000000.0
+2018,Total Revenue,Gross Profit,,,,Research and Development,22754000000.0
+2018,Total Revenue,,,,,Non-Interest Income,
+2018,Total Revenue,,,,,Other Non-Operating Income,0.0
+2018,Total Revenue,,,,,Investment Income Net,
+2018,Total Revenue,,,,,Net Interest Income,26929000000.0
+2018,Total Revenue,Net Interest Income,,,,Interest Income,30495000000.0
+2018,Total Revenue,Net Interest Income,,,,Interest Expense,3566000000.0
+2018,Gross Profit,,,,,Operating Income,69314000000.0
+2018,Gross Profit,Operating Income,,,,EBIT,104463000000.0
+2018,Gross Profit,Operating Income,EBIT,,,EBITDA,111583000000.0
+2018,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,64093000000.0
+2018,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,61412000000.0
+2018,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2018,Gross Profit,Operating Income,EBIT,,,Income Before Tax,100403000000.0
+2018,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,18199000000.0
+2018,Gross Profit,Operating Income,,,,Operating Expenses,73414000000.0
+2018,Gross Profit,Operating Income,,,,Depreciation,
+2018,Gross Profit,Operating Income,,,,Depreciation and Amortization,7120000000.0
+2018,Gross Profit,,,,,"Selling, General and Administrative",16241000000.0
+2018,Gross Profit,,,,,Research and Development,22754000000.0
+2018,Operating Income,,,,,EBIT,104463000000.0
+2018,Operating Income,EBIT,,,,EBITDA,111583000000.0
+2018,Operating Income,EBIT,EBITDA,,,Net Income,64093000000.0
+2018,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,61412000000.0
+2018,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2018,Operating Income,EBIT,,,,Income Before Tax,100403000000.0
+2018,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,18199000000.0
+2018,Operating Income,,,,,Operating Expenses,73414000000.0
+2018,Operating Income,,,,,Depreciation,
+2018,Operating Income,,,,,Depreciation and Amortization,7120000000.0
+2018,EBIT,,,,,EBITDA,111583000000.0
+2018,EBIT,EBITDA,,,,Net Income,64093000000.0
+2018,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,61412000000.0
+2018,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2018,EBIT,,,,,Income Before Tax,100403000000.0
+2018,EBIT,Income Before Tax,,,,Income Tax Expense,18199000000.0
+2018,Income Before Tax,,,,,Income Tax Expense,18199000000.0
+2018,EBITDA,,,,,Net Income,64093000000.0
+2018,EBITDA,Net Income,,,,Net Income from Continuing Operations,61412000000.0
+2018,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2018,Net Income,,,,,Net Income from Continuing Operations,61412000000.0
+2018,Net Income,,,,,Comprehensive Income Net of Tax,
+2018,Net Interest Income,,,,,Interest Income,30495000000.0
+2018,Net Interest Income,,,,,Interest Expense,3566000000.0
+2017,Total Revenue,,,,,Cost of Revenue,59483000000.0
+2017,Total Revenue,,,,,Gross Profit,98790000000.0
+2017,Total Revenue,Gross Profit,,,,Operating Income,48055000000.0
+2017,Total Revenue,Gross Profit,Operating Income,,,EBIT,60636000000.0
+2017,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,74928000000.0
+2017,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,43675000000.0
+2017,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,60029000000.0
+2017,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,13776000000.0
+2017,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,50284000000.0
+2017,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2017,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,14292000000.0
+2017,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",12239000000.0
+2017,Total Revenue,Gross Profit,,,,Research and Development,17060000000.0
+2017,Total Revenue,,,,,Non-Interest Income,
+2017,Total Revenue,,,,,Other Non-Operating Income,0.0
+2017,Total Revenue,,,,,Investment Income Net,
+2017,Total Revenue,,,,,Net Interest Income,5888000000.0
+2017,Total Revenue,Net Interest Income,,,,Interest Income,8559000000.0
+2017,Total Revenue,Net Interest Income,,,,Interest Expense,2671000000.0
+2017,Gross Profit,,,,,Operating Income,48055000000.0
+2017,Gross Profit,Operating Income,,,,EBIT,60636000000.0
+2017,Gross Profit,Operating Income,EBIT,,,EBITDA,74928000000.0
+2017,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,43675000000.0
+2017,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,41226000000.0
+2017,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2017,Gross Profit,Operating Income,EBIT,,,Income Before Tax,60029000000.0
+2017,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,13776000000.0
+2017,Gross Profit,Operating Income,,,,Operating Expenses,50284000000.0
+2017,Gross Profit,Operating Income,,,,Depreciation,
+2017,Gross Profit,Operating Income,,,,Depreciation and Amortization,14292000000.0
+2017,Gross Profit,,,,,"Selling, General and Administrative",12239000000.0
+2017,Gross Profit,,,,,Research and Development,17060000000.0
+2017,Operating Income,,,,,EBIT,60636000000.0
+2017,Operating Income,EBIT,,,,EBITDA,74928000000.0
+2017,Operating Income,EBIT,EBITDA,,,Net Income,43675000000.0
+2017,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,41226000000.0
+2017,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2017,Operating Income,EBIT,,,,Income Before Tax,60029000000.0
+2017,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,13776000000.0
+2017,Operating Income,,,,,Operating Expenses,50284000000.0
+2017,Operating Income,,,,,Depreciation,
+2017,Operating Income,,,,,Depreciation and Amortization,14292000000.0
+2017,EBIT,,,,,EBITDA,74928000000.0
+2017,EBIT,EBITDA,,,,Net Income,43675000000.0
+2017,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,41226000000.0
+2017,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2017,EBIT,,,,,Income Before Tax,60029000000.0
+2017,EBIT,Income Before Tax,,,,Income Tax Expense,13776000000.0
+2017,Income Before Tax,,,,,Income Tax Expense,13776000000.0
+2017,EBITDA,,,,,Net Income,43675000000.0
+2017,EBITDA,Net Income,,,,Net Income from Continuing Operations,41226000000.0
+2017,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2017,Net Income,,,,,Net Income from Continuing Operations,41226000000.0
+2017,Net Income,,,,,Comprehensive Income Net of Tax,
+2017,Net Interest Income,,,,,Interest Income,8559000000.0
+2017,Net Interest Income,,,,,Interest Expense,2671000000.0
+2016,Total Revenue,,,,,Cost of Revenue,34355000000.0
+2016,Total Revenue,,,,,Gross Profit,66788000000.0
+2016,Total Revenue,Gross Profit,,,,Operating Income,29102000000.0
+2016,Total Revenue,Gross Profit,Operating Income,,,EBIT,83869000000.0
+2016,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,86800000000.0
+2016,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,71460000000.0
+2016,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,81468000000.0
+2016,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,8449000000.0
+2016,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,37231000000.0
+2016,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2016,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,2931000000.0
+2016,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",9205000000.0
+2016,Total Revenue,Gross Profit,,,,Research and Development,13788000000.0
+2016,Total Revenue,,,,,Non-Interest Income,
+2016,Total Revenue,,,,,Other Non-Operating Income,0.0
+2016,Total Revenue,,,,,Investment Income Net,
+2016,Total Revenue,,,,,Net Interest Income,
+2016,Total Revenue,Net Interest Income,,,,Interest Income,51210000000.0
+2016,Total Revenue,Net Interest Income,,,,Interest Expense,1946000000.0
+2016,Gross Profit,,,,,Operating Income,29102000000.0
+2016,Gross Profit,Operating Income,,,,EBIT,83869000000.0
+2016,Gross Profit,Operating Income,EBIT,,,EBITDA,86800000000.0
+2016,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,71460000000.0
+2016,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,3694.8
+2016,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2016,Gross Profit,Operating Income,EBIT,,,Income Before Tax,81468000000.0
+2016,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,8449000000.0
+2016,Gross Profit,Operating Income,,,,Operating Expenses,37231000000.0
+2016,Gross Profit,Operating Income,,,,Depreciation,
+2016,Gross Profit,Operating Income,,,,Depreciation and Amortization,2931000000.0
+2016,Gross Profit,,,,,"Selling, General and Administrative",9205000000.0
+2016,Gross Profit,,,,,Research and Development,13788000000.0
+2016,Operating Income,,,,,EBIT,83869000000.0
+2016,Operating Income,EBIT,,,,EBITDA,86800000000.0
+2016,Operating Income,EBIT,EBITDA,,,Net Income,71460000000.0
+2016,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,3694.8
+2016,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2016,Operating Income,EBIT,,,,Income Before Tax,81468000000.0
+2016,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,8449000000.0
+2016,Operating Income,,,,,Operating Expenses,37231000000.0
+2016,Operating Income,,,,,Depreciation,
+2016,Operating Income,,,,,Depreciation and Amortization,2931000000.0
+2016,EBIT,,,,,EBITDA,86800000000.0
+2016,EBIT,EBITDA,,,,Net Income,71460000000.0
+2016,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,3694.8
+2016,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2016,EBIT,,,,,Income Before Tax,81468000000.0
+2016,EBIT,Income Before Tax,,,,Income Tax Expense,8449000000.0
+2016,Income Before Tax,,,,,Income Tax Expense,8449000000.0
+2016,EBITDA,,,,,Net Income,71460000000.0
+2016,EBITDA,Net Income,,,,Net Income from Continuing Operations,3694.8
+2016,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2016,Net Income,,,,,Net Income from Continuing Operations,3694.8
+2016,Net Income,,,,,Comprehensive Income Net of Tax,
+2016,Net Interest Income,,,,,Interest Income,51210000000.0
+2016,Net Interest Income,,,,,Interest Expense,1946000000.0
+2015,Total Revenue,,,,,Cost of Revenue,23834000000.0
+2015,Total Revenue,,,,,Gross Profit,52370000000.0
+2015,Total Revenue,Gross Profit,,,,Operating Income,23135000000.0
+2015,Total Revenue,Gross Profit,Operating Income,,,EBIT,35251000000.0
+2015,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,37340000000.0
+2015,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,24261000000.0
+2015,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,32326000000.0
+2015,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,6416000000.0
+2015,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,29060000000.0
+2015,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2015,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,2089000000.0
+2015,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",7800000000.0
+2015,Total Revenue,Gross Profit,,,,Research and Development,10658000000.0
+2015,Total Revenue,,,,,Non-Interest Income,
+2015,Total Revenue,,,,,Other Non-Operating Income,0.0
+2015,Total Revenue,,,,,Investment Income Net,
+2015,Total Revenue,,,,,Net Interest Income,
+2015,Total Revenue,Net Interest Income,,,,Interest Income,
+2015,Total Revenue,Net Interest Income,,,,Interest Expense,2750000000.0
+2015,Gross Profit,,,,,Operating Income,23135000000.0
+2015,Gross Profit,Operating Income,,,,EBIT,35251000000.0
+2015,Gross Profit,Operating Income,EBIT,,,EBITDA,37340000000.0
+2015,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,24261000000.0
+2015,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,3922897007.82
+2015,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2015,Gross Profit,Operating Income,EBIT,,,Income Before Tax,32326000000.0
+2015,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,6416000000.0
+2015,Gross Profit,Operating Income,,,,Operating Expenses,29060000000.0
+2015,Gross Profit,Operating Income,,,,Depreciation,
+2015,Gross Profit,Operating Income,,,,Depreciation and Amortization,2089000000.0
+2015,Gross Profit,,,,,"Selling, General and Administrative",7800000000.0
+2015,Gross Profit,,,,,Research and Development,10658000000.0
+2015,Operating Income,,,,,EBIT,35251000000.0
+2015,Operating Income,EBIT,,,,EBITDA,37340000000.0
+2015,Operating Income,EBIT,EBITDA,,,Net Income,24261000000.0
+2015,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,3922897007.82
+2015,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2015,Operating Income,EBIT,,,,Income Before Tax,32326000000.0
+2015,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,6416000000.0
+2015,Operating Income,,,,,Operating Expenses,29060000000.0
+2015,Operating Income,,,,,Depreciation,
+2015,Operating Income,,,,,Depreciation and Amortization,2089000000.0
+2015,EBIT,,,,,EBITDA,37340000000.0
+2015,EBIT,EBITDA,,,,Net Income,24261000000.0
+2015,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,3922897007.82
+2015,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2015,EBIT,,,,,Income Before Tax,32326000000.0
+2015,EBIT,Income Before Tax,,,,Income Tax Expense,6416000000.0
+2015,Income Before Tax,,,,,Income Tax Expense,6416000000.0
+2015,EBITDA,,,,,Net Income,24261000000.0
+2015,EBITDA,Net Income,,,,Net Income from Continuing Operations,3922897007.82
+2015,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2015,Net Income,,,,,Net Income from Continuing Operations,3922897007.82
+2015,Net Income,,,,,Comprehensive Income Net of Tax,
+2015,Net Interest Income,,,,,Interest Income,
+2015,Net Interest Income,,,,,Interest Expense,2750000000.0
+2014,Total Revenue,,,,,Cost of Revenue,13369000000.0
+2014,Total Revenue,,,,,Gross Profit,39135000000.0
+2014,Total Revenue,Gross Profit,,,,Operating Income,24920000000.0
+2014,Total Revenue,Gross Profit,Operating Income,,,EBIT,29041000000.0
+2014,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,30695000000.0
+2014,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,23315000000.0
+2014,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,26802000000.0
+2014,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,3196000000.0
+2014,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,13919000000.0
+2014,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2014,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,1654000000.0
+2014,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",4218000000.0
+2014,Total Revenue,Gross Profit,,,,Research and Development,5093000000.0
+2014,Total Revenue,,,,,Non-Interest Income,
+2014,Total Revenue,,,,,Other Non-Operating Income,
+2014,Total Revenue,,,,,Investment Income Net,
+2014,Total Revenue,,,,,Net Interest Income,
+2014,Total Revenue,Net Interest Income,,,,Interest Income,
+2014,Total Revenue,Net Interest Income,,,,Interest Expense,2195000000.0
+2014,Gross Profit,,,,,Operating Income,24920000000.0
+2014,Gross Profit,Operating Income,,,,EBIT,29041000000.0
+2014,Gross Profit,Operating Income,EBIT,,,EBITDA,30695000000.0
+2014,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,23315000000.0
+2014,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,23403000000.0
+2014,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2014,Gross Profit,Operating Income,EBIT,,,Income Before Tax,26802000000.0
+2014,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,3196000000.0
+2014,Gross Profit,Operating Income,,,,Operating Expenses,13919000000.0
+2014,Gross Profit,Operating Income,,,,Depreciation,
+2014,Gross Profit,Operating Income,,,,Depreciation and Amortization,1654000000.0
+2014,Gross Profit,,,,,"Selling, General and Administrative",4218000000.0
+2014,Gross Profit,,,,,Research and Development,5093000000.0
+2014,Operating Income,,,,,EBIT,29041000000.0
+2014,Operating Income,EBIT,,,,EBITDA,30695000000.0
+2014,Operating Income,EBIT,EBITDA,,,Net Income,23315000000.0
+2014,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,23403000000.0
+2014,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2014,Operating Income,EBIT,,,,Income Before Tax,26802000000.0
+2014,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,3196000000.0
+2014,Operating Income,,,,,Operating Expenses,13919000000.0
+2014,Operating Income,,,,,Depreciation,
+2014,Operating Income,,,,,Depreciation and Amortization,1654000000.0
+2014,EBIT,,,,,EBITDA,30695000000.0
+2014,EBIT,EBITDA,,,,Net Income,23315000000.0
+2014,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,23403000000.0
+2014,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2014,EBIT,,,,,Income Before Tax,26802000000.0
+2014,EBIT,Income Before Tax,,,,Income Tax Expense,3196000000.0
+2014,Income Before Tax,,,,,Income Tax Expense,3196000000.0
+2014,EBITDA,,,,,Net Income,23315000000.0
+2014,EBITDA,Net Income,,,,Net Income from Continuing Operations,23403000000.0
+2014,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2014,Net Income,,,,,Net Income from Continuing Operations,23403000000.0
+2014,Net Income,,,,,Comprehensive Income Net of Tax,
+2014,Net Interest Income,,,,,Interest Income,
+2014,Net Interest Income,,,,,Interest Expense,2195000000.0
+2013,Total Revenue,,,,,Cost of Revenue,9719000000.0
+2013,Total Revenue,,,,,Gross Profit,24798000000.0
+2013,Total Revenue,Gross Profit,,,,Operating Income,10751000000.0
+2013,Total Revenue,Gross Profit,Operating Income,,,EBIT,11859000000.0
+2013,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,12794000000.0
+2013,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,8532000000.0
+2013,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,10112000000.0
+2013,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,1457000000.0
+2013,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,13484000000.0
+2013,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2013,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,935000000.0
+2013,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",2889000000.0
+2013,Total Revenue,Gross Profit,,,,Research and Development,3753000000.0
+2013,Total Revenue,,,,,Non-Interest Income,
+2013,Total Revenue,,,,,Other Non-Operating Income,
+2013,Total Revenue,,,,,Investment Income Net,
+2013,Total Revenue,,,,,Net Interest Income,
+2013,Total Revenue,Net Interest Income,,,,Interest Income,
+2013,Total Revenue,Net Interest Income,,,,Interest Expense,1572000000.0
+2013,Gross Profit,,,,,Operating Income,10751000000.0
+2013,Gross Profit,Operating Income,,,,EBIT,11859000000.0
+2013,Gross Profit,Operating Income,EBIT,,,EBITDA,12794000000.0
+2013,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,8532000000.0
+2013,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,
+2013,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2013,Gross Profit,Operating Income,EBIT,,,Income Before Tax,10112000000.0
+2013,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,1457000000.0
+2013,Gross Profit,Operating Income,,,,Operating Expenses,13484000000.0
+2013,Gross Profit,Operating Income,,,,Depreciation,
+2013,Gross Profit,Operating Income,,,,Depreciation and Amortization,935000000.0
+2013,Gross Profit,,,,,"Selling, General and Administrative",2889000000.0
+2013,Gross Profit,,,,,Research and Development,3753000000.0
+2013,Operating Income,,,,,EBIT,11859000000.0
+2013,Operating Income,EBIT,,,,EBITDA,12794000000.0
+2013,Operating Income,EBIT,EBITDA,,,Net Income,8532000000.0
+2013,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,
+2013,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2013,Operating Income,EBIT,,,,Income Before Tax,10112000000.0
+2013,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,1457000000.0
+2013,Operating Income,,,,,Operating Expenses,13484000000.0
+2013,Operating Income,,,,,Depreciation,
+2013,Operating Income,,,,,Depreciation and Amortization,935000000.0
+2013,EBIT,,,,,EBITDA,12794000000.0
+2013,EBIT,EBITDA,,,,Net Income,8532000000.0
+2013,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,
+2013,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2013,EBIT,,,,,Income Before Tax,10112000000.0
+2013,EBIT,Income Before Tax,,,,Income Tax Expense,1457000000.0
+2013,Income Before Tax,,,,,Income Tax Expense,1457000000.0
+2013,EBITDA,,,,,Net Income,8532000000.0
+2013,EBITDA,Net Income,,,,Net Income from Continuing Operations,
+2013,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2013,Net Income,,,,,Net Income from Continuing Operations,
+2013,Net Income,,,,,Comprehensive Income Net of Tax,
+2013,Net Interest Income,,,,,Interest Income,
+2013,Net Interest Income,,,,,Interest Expense,1572000000.0
+2012,Total Revenue,,,,,Cost of Revenue,6554000000.0
+2012,Total Revenue,,,,,Gross Profit,13471000000.0
+2012,Total Revenue,Gross Profit,,,,Operating Income,5015000000.0
+2012,Total Revenue,Gross Profit,Operating Income,,,EBIT,5735000000.0
+2012,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,6605000000.0
+2012,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,4228000000.0
+2012,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,5532000000.0
+2012,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,842000000.0
+2012,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,8121000000.0
+2012,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2012,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,870000000.0
+2012,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",2211000000.0
+2012,Total Revenue,Gross Profit,,,,Research and Development,2897000000.0
+2012,Total Revenue,,,,,Non-Interest Income,
+2012,Total Revenue,,,,,Other Non-Operating Income,
+2012,Total Revenue,,,,,Investment Income Net,
+2012,Total Revenue,,,,,Net Interest Income,
+2012,Total Revenue,Net Interest Income,,,,Interest Income,
+2012,Total Revenue,Net Interest Income,,,,Interest Expense,68000000.0
+2012,Gross Profit,,,,,Operating Income,5015000000.0
+2012,Gross Profit,Operating Income,,,,EBIT,5735000000.0
+2012,Gross Profit,Operating Income,EBIT,,,EBITDA,6605000000.0
+2012,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,4228000000.0
+2012,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,
+2012,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2012,Gross Profit,Operating Income,EBIT,,,Income Before Tax,5532000000.0
+2012,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,842000000.0
+2012,Gross Profit,Operating Income,,,,Operating Expenses,8121000000.0
+2012,Gross Profit,Operating Income,,,,Depreciation,
+2012,Gross Profit,Operating Income,,,,Depreciation and Amortization,870000000.0
+2012,Gross Profit,,,,,"Selling, General and Administrative",2211000000.0
+2012,Gross Profit,,,,,Research and Development,2897000000.0
+2012,Operating Income,,,,,EBIT,5735000000.0
+2012,Operating Income,EBIT,,,,EBITDA,6605000000.0
+2012,Operating Income,EBIT,EBITDA,,,Net Income,4228000000.0
+2012,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,
+2012,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2012,Operating Income,EBIT,,,,Income Before Tax,5532000000.0
+2012,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,842000000.0
+2012,Operating Income,,,,,Operating Expenses,8121000000.0
+2012,Operating Income,,,,,Depreciation,
+2012,Operating Income,,,,,Depreciation and Amortization,870000000.0
+2012,EBIT,,,,,EBITDA,6605000000.0
+2012,EBIT,EBITDA,,,,Net Income,4228000000.0
+2012,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,
+2012,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2012,EBIT,,,,,Income Before Tax,5532000000.0
+2012,EBIT,Income Before Tax,,,,Income Tax Expense,842000000.0
+2012,Income Before Tax,,,,,Income Tax Expense,842000000.0
+2012,EBITDA,,,,,Net Income,4228000000.0
+2012,EBITDA,Net Income,,,,Net Income from Continuing Operations,
+2012,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2012,Net Income,,,,,Net Income from Continuing Operations,
+2012,Net Income,,,,,Comprehensive Income Net of Tax,
+2012,Net Interest Income,,,,,Interest Income,
+2012,Net Interest Income,,,,,Interest Expense,68000000.0
+2011,Total Revenue,,,,,Cost of Revenue,931016000.0
+2011,Total Revenue,,,,,Gross Profit,4626570000.0
+2011,Total Revenue,Gross Profit,,,,Operating Income,1536538000.0
+2011,Total Revenue,Gross Profit,Operating Income,,,EBIT,1536538000.0
+2011,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,1763448000.0
+2011,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,1469464000.0
+2011,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,1706457000.0
+2011,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,236445000.0
+2011,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,3090032000.0
+2011,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2011,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,226910000.0
+2011,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",568324000.0
+2011,Total Revenue,Gross Profit,,,,Research and Development,580173000.0
+2011,Total Revenue,,,,,Non-Interest Income,
+2011,Total Revenue,,,,,Other Non-Operating Income,
+2011,Total Revenue,,,,,Investment Income Net,
+2011,Total Revenue,,,,,Net Interest Income,
+2011,Total Revenue,Net Interest Income,,,,Interest Income,
+2011,Total Revenue,Net Interest Income,,,,Interest Expense,176398000.0
+2011,Gross Profit,,,,,Operating Income,1536538000.0
+2011,Gross Profit,Operating Income,,,,EBIT,1536538000.0
+2011,Gross Profit,Operating Income,EBIT,,,EBITDA,1763448000.0
+2011,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,1469464000.0
+2011,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,
+2011,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2011,Gross Profit,Operating Income,EBIT,,,Income Before Tax,1706457000.0
+2011,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,236445000.0
+2011,Gross Profit,Operating Income,,,,Operating Expenses,3090032000.0
+2011,Gross Profit,Operating Income,,,,Depreciation,
+2011,Gross Profit,Operating Income,,,,Depreciation and Amortization,226910000.0
+2011,Gross Profit,,,,,"Selling, General and Administrative",568324000.0
+2011,Gross Profit,,,,,Research and Development,580173000.0
+2011,Operating Income,,,,,EBIT,1536538000.0
+2011,Operating Income,EBIT,,,,EBITDA,1763448000.0
+2011,Operating Income,EBIT,EBITDA,,,Net Income,1469464000.0
+2011,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,
+2011,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2011,Operating Income,EBIT,,,,Income Before Tax,1706457000.0
+2011,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,236445000.0
+2011,Operating Income,,,,,Operating Expenses,3090032000.0
+2011,Operating Income,,,,,Depreciation,
+2011,Operating Income,,,,,Depreciation and Amortization,226910000.0
+2011,EBIT,,,,,EBITDA,1763448000.0
+2011,EBIT,EBITDA,,,,Net Income,1469464000.0
+2011,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,
+2011,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2011,EBIT,,,,,Income Before Tax,1706457000.0
+2011,EBIT,Income Before Tax,,,,Income Tax Expense,236445000.0
+2011,Income Before Tax,,,,,Income Tax Expense,236445000.0
+2011,EBITDA,,,,,Net Income,1469464000.0
+2011,EBITDA,Net Income,,,,Net Income from Continuing Operations,
+2011,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2011,Net Income,,,,,Net Income from Continuing Operations,
+2011,Net Income,,,,,Comprehensive Income Net of Tax,
+2011,Net Interest Income,,,,,Interest Income,
+2011,Net Interest Income,,,,,Interest Expense,176398000.0
+2010,Total Revenue,,,,,Cost of Revenue,534438000.0
+2010,Total Revenue,,,,,Gross Profit,3340290000.0
+2010,Total Revenue,Gross Profit,,,,Operating Income,1072970000.0
+2010,Total Revenue,Gross Profit,Operating Income,,,EBIT,1072970000.0
+2010,Total Revenue,Gross Profit,Operating Income,EBIT,,EBITDA,1199552000.0
+2010,Total Revenue,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,1013026000.0
+2010,Total Revenue,Gross Profit,Operating Income,EBIT,,Income Before Tax,1176419000.0
+2010,Total Revenue,Gross Profit,Operating Income,EBIT,Income Before Tax,Income Tax Expense,163393000.0
+2010,Total Revenue,Gross Profit,Operating Income,,,Operating Expenses,2267320000.0
+2010,Total Revenue,Gross Profit,Operating Income,,,Depreciation,
+2010,Total Revenue,Gross Profit,Operating Income,,,Depreciation and Amortization,126582000.0
+2010,Total Revenue,Gross Profit,,,,"Selling, General and Administrative",409708000.0
+2010,Total Revenue,Gross Profit,,,,Research and Development,384333000.0
+2010,Total Revenue,,,,,Non-Interest Income,
+2010,Total Revenue,,,,,Other Non-Operating Income,
+2010,Total Revenue,,,,,Investment Income Net,
+2010,Total Revenue,,,,,Net Interest Income,
+2010,Total Revenue,Net Interest Income,,,,Interest Income,
+2010,Total Revenue,Net Interest Income,,,,Interest Expense,140941000.0
+2010,Gross Profit,,,,,Operating Income,1072970000.0
+2010,Gross Profit,Operating Income,,,,EBIT,1072970000.0
+2010,Gross Profit,Operating Income,EBIT,,,EBITDA,1199552000.0
+2010,Gross Profit,Operating Income,EBIT,EBITDA,,Net Income,1013026000.0
+2010,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Net Income from Continuing Operations,
+2010,Gross Profit,Operating Income,EBIT,EBITDA,Net Income,Comprehensive Income Net of Tax,
+2010,Gross Profit,Operating Income,EBIT,,,Income Before Tax,1176419000.0
+2010,Gross Profit,Operating Income,EBIT,Income Before Tax,,Income Tax Expense,163393000.0
+2010,Gross Profit,Operating Income,,,,Operating Expenses,2267320000.0
+2010,Gross Profit,Operating Income,,,,Depreciation,
+2010,Gross Profit,Operating Income,,,,Depreciation and Amortization,126582000.0
+2010,Gross Profit,,,,,"Selling, General and Administrative",409708000.0
+2010,Gross Profit,,,,,Research and Development,384333000.0
+2010,Operating Income,,,,,EBIT,1072970000.0
+2010,Operating Income,EBIT,,,,EBITDA,1199552000.0
+2010,Operating Income,EBIT,EBITDA,,,Net Income,1013026000.0
+2010,Operating Income,EBIT,EBITDA,Net Income,,Net Income from Continuing Operations,
+2010,Operating Income,EBIT,EBITDA,Net Income,,Comprehensive Income Net of Tax,
+2010,Operating Income,EBIT,,,,Income Before Tax,1176419000.0
+2010,Operating Income,EBIT,Income Before Tax,,,Income Tax Expense,163393000.0
+2010,Operating Income,,,,,Operating Expenses,2267320000.0
+2010,Operating Income,,,,,Depreciation,
+2010,Operating Income,,,,,Depreciation and Amortization,126582000.0
+2010,EBIT,,,,,EBITDA,1199552000.0
+2010,EBIT,EBITDA,,,,Net Income,1013026000.0
+2010,EBIT,EBITDA,Net Income,,,Net Income from Continuing Operations,
+2010,EBIT,EBITDA,Net Income,,,Comprehensive Income Net of Tax,
+2010,EBIT,,,,,Income Before Tax,1176419000.0
+2010,EBIT,Income Before Tax,,,,Income Tax Expense,163393000.0
+2010,Income Before Tax,,,,,Income Tax Expense,163393000.0
+2010,EBITDA,,,,,Net Income,1013026000.0
+2010,EBITDA,Net Income,,,,Net Income from Continuing Operations,
+2010,EBITDA,Net Income,,,,Comprehensive Income Net of Tax,
+2010,Net Income,,,,,Net Income from Continuing Operations,
+2010,Net Income,,,,,Comprehensive Income Net of Tax,
+2010,Net Interest Income,,,,,Interest Income,
+2010,Net Interest Income,,,,,Interest Expense,140941000.0
